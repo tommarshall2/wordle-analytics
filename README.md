@@ -1,0 +1,2 @@
+# wordle-analytics
+Wordle analytics
