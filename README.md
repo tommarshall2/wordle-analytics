@@ -1,2 +1,2 @@
 # wordle-analytics
-Wordle analytics
+Wordle analytics utilising the Twitter API.
